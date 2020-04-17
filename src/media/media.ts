@@ -15,7 +15,7 @@ enum Media {
     Radio = "Radio",
 }
 
-const przeprogramowani: String = Media.Internet.toString();
+const przeprogramowani: Media = Media.Internet;
 
 /* Do not modify tests */
 
